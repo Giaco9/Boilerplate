@@ -1,0 +1,7 @@
+node_modules/
+vendor/
+doc/
+
+composer.lock
+
+.DS_Store
